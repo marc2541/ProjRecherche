@@ -1,0 +1,17 @@
+bqplot
+colour
+folium>=0.11.0
+gdown
+geojson
+ipyevents
+ipyfilechooser>=0.6.0
+ipyleaflet>=0.17.0
+matplotlib
+numpy
+pandas
+pyshp>=2.1.3
+pystac-client
+python-box
+scooby
+whiteboxgui>=0.6.0
+xyzservices
